@@ -1,5 +1,5 @@
 ////                                       DPF ELETRÔNICA
-////                                    SIMULADOR DE SINAL DE RODA FONIA
+////                                    SIMULADOR DE SINAL DE RODA FÔNICA
 ////                                    VER 2.1   18/08/2020
 
 ///Variaveis de memória
